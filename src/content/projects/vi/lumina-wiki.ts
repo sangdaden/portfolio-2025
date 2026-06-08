@@ -9,7 +9,7 @@ export default {
   tags: ["node", "javascript"],
   source: "https://github.com/sangdaden/lumina-wiki",
   description:
-    "Ein KI-gestützter Recherche-Assistent, der Rohdokumente in ein vernetztes Wiki verwandelt, das du in natürlicher Sprache abfragen kannst. Quellen einlesen, einen Wissensgraphen aufbauen und kontextbezogene Fragen über alles Gelesene stellen.<br/><br/>Unterstützt mehrere KI-Backends (Claude, Gemini, OpenAI) mit optionalen Recherche- und Lese-Packs sowie Obsidian-Integration.",
+    "Trợ lý nghiên cứu dùng AI, biến tài liệu thô thành một wiki liên kết mà bạn có thể hỏi bằng ngôn ngữ tự nhiên. Nạp nguồn, dựng đồ thị tri thức, và đặt câu hỏi theo ngữ cảnh trên toàn bộ những gì bạn đã đọc.<br/><br/>Hỗ trợ nhiều backend AI (Claude, Gemini, OpenAI) cùng các gói nghiên cứu và đọc tuỳ chọn, tích hợp Obsidian để duyệt các ghi chú liên kết.",
   components: [
     {
       type: "media",
@@ -17,7 +17,7 @@ export default {
         type: "image",
         src: placeholder,
         alt: "Lumina Wiki",
-        caption: "Platzhalter — Screenshot ergänzen",
+        caption: "Ảnh tạm — hãy thay screenshot thật",
       },
     },
   ],

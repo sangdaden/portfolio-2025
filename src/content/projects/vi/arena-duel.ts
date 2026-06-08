@@ -9,7 +9,7 @@ export default {
   tags: ["three", "javascript", "css"],
   source: "https://github.com/sangdaden/AI-Coder",
   description:
-    "Ein browserbasierter 3D-Ego-Shooter, in dem du dich in einer Arena mit einem KI-Gegner duellierst. Bewegung und Schießen in Echtzeit, gerendert mit Three.js und sofort im Browser spielbar — ohne Installation.<br/><br/>Ein Experiment zu Spielgefühl und einfachem KI-Verhalten im Web.",
+    "Game bắn súng góc nhìn thứ nhất 3D chạy ngay trên trình duyệt, nơi bạn đấu tay đôi với một đối thủ AI trong đấu trường. Di chuyển và bắn theo thời gian thực, dựng bằng Three.js — chơi ngay không cần cài đặt.<br/><br/>Một thử nghiệm về cảm giác chơi game và hành vi AI đơn giản trên web.",
   components: [
     {
       type: "media",
@@ -17,7 +17,7 @@ export default {
         type: "image",
         src: placeholder,
         alt: "Arena Duel",
-        caption: "Platzhalter — Screenshot ergänzen",
+        caption: "Ảnh tạm — hãy thay screenshot thật",
       },
     },
   ],

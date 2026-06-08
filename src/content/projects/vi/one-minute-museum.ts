@@ -10,7 +10,7 @@ export default {
   live: "https://one-minute-museum.vercel.app",
   source: "https://github.com/sangdaden/One-Minute-Museum",
   description:
-    "Eine Web-App, die Alltagsgegenstände — vietnamesische Sandalen, ein Plastikhocker — in kleine Museumsausstellungen mit KI-generierten Kuratorentexten verwandelt.<br/><br/>Wähle eine Perspektive (vietnamesische Kultur, Museum, Fun Fact oder Design) und erhalte ein teilbares Ausstellungsschild, exportierbar als 1080×1080-PNG. Gebaut mit Next.js, OpenAI Structured Outputs und Tailwind CSS.",
+    "Một web app biến những vật bình thường quanh bạn — đôi dép, chiếc ghế nhựa — thành một triển lãm mini với lời thuyết minh do AI tạo.<br/><br/>Chọn một góc nhìn (văn hoá Việt, bảo tàng, fun fact, hoặc thiết kế) và nhận về một tấm nhãn hiện vật có thể chia sẻ, xuất ra ảnh PNG 1080×1080. Xây bằng Next.js, OpenAI structured outputs và Tailwind CSS.",
   components: [
     {
       type: "media",
@@ -18,7 +18,7 @@ export default {
         type: "image",
         src: placeholder,
         alt: "One-Minute Museum",
-        caption: "Platzhalter — Screenshot ergänzen",
+        caption: "Ảnh tạm — hãy thay screenshot thật",
       },
     },
   ],

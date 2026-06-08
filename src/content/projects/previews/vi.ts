@@ -10,18 +10,18 @@ export default [
     title: "One-Minute Museum",
     slug: "one-minute-museum",
     thumbnail: thumbnailMuseum,
-    description: "KI-Generator für Ausstellungsschilder",
+    description: "Tạo nhãn triển lãm bằng AI",
   },
   {
     title: "Arena Duel",
     slug: "arena-duel",
     thumbnail: thumbnailArena,
-    description: "3D-Shooter gegen einen KI-Gegner",
+    description: "Game bắn súng 3D đấu với AI",
   },
   {
     title: "Lumina Wiki",
     slug: "lumina-wiki",
     thumbnail: thumbnailLumina,
-    description: "KI-Recherche-Assistent",
+    description: "Trợ lý nghiên cứu AI",
   },
 ] as const satisfies ProjectPreview[];
