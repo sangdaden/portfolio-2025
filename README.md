@@ -1,6 +1,10 @@
-# Portfolio (2025)
+# Sang Phan — Portfolio (2025)
 
-Personal portfolio site: project case studies, lightweight 3D and shader demos, bilingual copy (English and German).
+Personal portfolio of **Sang Phan**, AI Engineer (Ho Chi Minh City, Vietnam): project case studies, lightweight 3D and shader demos, bilingual copy (English and German).
+
+Live: https://sangdaden.github.io/portfolio-2025/
+
+> Built on the open-source portfolio template by **David Heckhoff** — see Credits & Attribution below.
 
 Built with **Vue 3**, **TypeScript**, and **Vite**. Motion via **GSAP** and **Lenis**, 3D via **three.js**, audio via **Howler**. GLSL is compiled through **vite-plugin-glsl**.
 
