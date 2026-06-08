@@ -1,26 +1,6 @@
-@font-face {
-  font-family: "Urbanist";
-  src: url(/portfolio-2025/fonts/urbanist-400.woff2) format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Urbanist";
-  src: url(/portfolio-2025/fonts/urbanist-700.woff2) format("woff2");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Urbanist";
-  src: url(/portfolio-2025/fonts/urbanist-900.woff2) format("woff2");
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
+// The primary font "Be Vietnam Pro" is loaded from Google Fonts in index.html.
+// It includes a full Vietnamese glyph set (ệ, ầ, ố, ữ, …); the previous font
+// (self-hosted Urbanist) had no Vietnamese coverage and broke the diacritics.
 
 @font-face {
   font-family: "ProFontWindows";

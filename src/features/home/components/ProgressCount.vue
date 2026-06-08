@@ -35,7 +35,7 @@ onBeforeUnmount(() => {
   font-size: var(--font-size-sm);
   font-weight: 700;
   color: var(--color-text-cyan-400);
-  font-family: "ProFontWindows";
+  font-family: "ProFontWindows", "Be Vietnam Pro", sans-serif;
   text-align: center;
   align-items: center;
   height: var(--count-height);
